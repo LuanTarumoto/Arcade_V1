@@ -24,7 +24,7 @@ This project is currently a prototype demonstrating fundamental mechanics. Futur
 ## 📸 Gameplay Showcase
 
 <div align="center">
-  <img src="(https://github.com/user-attachments/assets/95d6ed51-b87e-4e3c-80fe-66ed3628affd)" alt="Gameplay Showcase">
+  <img src="https://github.com/user-attachments/assets/95d6ed51-b87e-4e3c-80fe-66ed3628affd" alt="Gameplay Showcase">
 </div>
 
 <br>
