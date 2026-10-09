@@ -25,6 +25,4 @@ This project is currently a prototype demonstrating fundamental mechanics. Futur
 
 <img width="800" height="450" alt="Arcade_V12026-10-0902-39-14-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/e58c7b70-3ed2-4013-b1ae-d0074b9220fe" />
 
-<img width="800" height="450" alt="Arcade_V12026-10-0902-39-14-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/9267a8f3-0310-4ad5-848a-a74d5f984a85" />
-
 🎮 **Play the playable prototype directly in your browser:** (https://otomurat.itch.io/earth-defenders-2-prototype)
