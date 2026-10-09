@@ -23,6 +23,10 @@ This project is currently a prototype demonstrating fundamental mechanics. Futur
 
 ## 📸 Gameplay Showcase
 
-<img width="600" height="337" alt="Arcade_V12026-10-0902-39-14-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/95d6ed51-b87e-4e3c-80fe-66ed3628affd" />
+<div align="center">
+  <img src="(https://github.com/user-attachments/assets/95d6ed51-b87e-4e3c-80fe-66ed3628affd)" alt="Gameplay Showcase">
+</div>
 
-🎮 **Play the playable prototype directly in your browser:** (https://otomurat.itch.io/earth-defenders-2-prototype)
+<br>
+
+🎮 **Play the playable prototype directly in your browser:** [Earth Defenders 2! - Prototype on Itch.io](https://otomurat.itch.io/earth-defenders-2-prototype)
